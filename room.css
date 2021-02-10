@@ -1,0 +1,51 @@
+body{
+    background-color:#f5deaa;
+}
+#head_line{
+    text-align: center;
+    color:#fec89c;
+    font-size: 100px;
+}
+#head_line_img{
+    width: 100px;
+    height:100px;
+    text-align: center;
+}
+.back_div{
+    background-image: url("https://cdn.dribbble.com/users/2269196/screenshots/7825940/media/af336f853ef0a93aa30203627d339e71.gif");
+    background-size: cover;
+    width: 800px;
+    height:600px;
+    border-top: -100px;
+}
+#user_name{
+    color:#92b3c4;
+}
+#room_name{
+    border-radius: 50px;
+    width: 400px;
+    margin-top:-40px;
+    color: #92b3c4;
+}
+#r{
+    color:#92b3c4;
+    margin-right: 520px;
+}
+#addr{
+    background-color: #92b3c4;
+    margin-top: 10px;
+    color: white;
+}
+.color_white{
+    color: #92b3c4;
+}
+.input_div_message_page{
+    margin-top: -100px;
+}
+#msg{
+    width: 400px;
+}
+.user_tick{
+    width: 20px;
+    height: 20px;
+}

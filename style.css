@@ -1,0 +1,38 @@
+body{
+    background-color:rgba(234,193,75,255);
+}
+#user_name{
+    width: 300px;
+    float: none;
+    margin-bottom: 10px;
+    border-radius: 40px;
+}
+#welcome{
+    color:#ee962a;
+    margin-top: 20px;
+}
+.back_div{
+    background-image: url("https://i.pinimg.com/originals/e4/10/11/e41011a80c26209ebca58208551eabce.gif");
+    background-size: cover;
+    width: 800px;
+    height:600px;
+    border-radius: 300px;
+}
+#try{
+    margin-top: 460px;
+    color: cornsilk;
+    margin-right:400px;
+    margin-bottom: -30px;
+}
+#login_button{
+    background-color:#ee962a;
+}
+#head_line{
+    text-align: center;
+    color:#ee962a;
+    font-size: 1    00px;
+}
+#head_line_img{
+    height:100px;
+    text-align: center;
+}
